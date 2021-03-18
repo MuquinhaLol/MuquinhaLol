@@ -1,4 +1,4 @@
-<img align="right" width="400px" src="https://github.com/LB-Okami/LB-Okami/blob/main/sasha1.gif">
+<img align="right" width="400px" src="https://github.com/MuquinhaLol/MuquinhaLol/blob/main/tonyStark.gif">
 
 
 # Hi there, I'm Lucas! <img src="https://github.com/LB-Okami/LB-Okami/blob/main/wolf.svg" width="40px">
